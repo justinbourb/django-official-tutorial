@@ -1,0 +1,6 @@
+- learn html?
+- how to format website?
+-create header/footer with links to
+polls, results, admin from all pages
+- create a front page? something besides polls?
+-
